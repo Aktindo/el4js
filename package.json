@@ -18,6 +18,10 @@
   },
   "author": "Aktindo",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aktindo/el4js.git"
+  },
   "dependencies": {
     "@types/config": "0.0.38",
     "@types/node": "^14.14.37",
