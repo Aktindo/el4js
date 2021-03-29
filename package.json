@@ -1,0 +1,27 @@
+{
+  "name": "el4js",
+  "version": "0.0.1",
+  "description": "A simple and modular logger for JavaScript. (Easy Logger for JavaScript)",
+  "main": "dist/index.js",
+  "types": "dist",
+  "keywords": [
+    "el4js",
+    "logger",
+    "logger4js",
+    "log4js",
+    "loggerr",
+    "log",
+    "console"
+  ],
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "Aktindo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/config": "0.0.38",
+    "@types/node": "^14.14.37",
+    "chalk": "^4.1.0",
+    "supports-color": "^8.1.1"
+  }
+}
