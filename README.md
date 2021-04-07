@@ -1,10 +1,10 @@
-# el4js (Easy Logger For JavaScript)
+# Some Logger
 
-## Why el4js?
+## Why some-logger?
 
-el4js is a logger for javascript intended to be simple yet modular. There are certain levels of logging and can be configured.
+Some logger is a logger for javascript intended to be simple yet modular. There are certain levels of logging and can be configured.
 
-The documentation for this porject is a work in progress.
+The documentation for this project is a work in progress.
 
 ### Features
 
