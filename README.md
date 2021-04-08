@@ -1,10 +1,8 @@
-# Some Logger
+# EL4JS (DEPRECATED)
 
-## Why some-logger?
+## Why el4js?
 
-Some logger is a logger for javascript intended to be simple yet modular. There are certain levels of logging and can be configured.
-
-The documentation for this project is a work in progress.
+el4js is a logger for javascript intended to be simple yet modular. There are certain levels of logging and can be configured.
 
 ### Features
 

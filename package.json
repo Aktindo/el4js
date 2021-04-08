@@ -1,6 +1,6 @@
 {
-  "name": "some-logger",
-  "version": "0.0.3",
+  "name": "el4js",
+  "version": "0.0.4",
   "description": "A simple and modular logger for JavaScript. (Easy Logger for JavaScript)",
   "main": "dist/index.js",
   "types": "dist",
@@ -20,7 +20,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aktindo/some-logger.git"
+    "url": "https://github.com/Aktindo/el4js.git"
   },
   "dependencies": {
     "@types/config": "0.0.38",
